@@ -6,6 +6,7 @@ const EVENTS = [
   'load-commit',
   'did-finish-load',
   'did-fail-load',
+  'did-navigate',
   'did-frame-finish-load',
   'did-start-loading',
   'did-stop-loading',
