@@ -1,5 +1,6 @@
 {
   "name": "react-electron-webview",
+  "version": "0.0.0",
   "description": "React component for the <webview> element in Electron.",
   "main": "index.js",
   "scripts": {
